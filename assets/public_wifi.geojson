@@ -1,0 +1,4877 @@
+{
+  "type": "FeatureCollection",
+  "name": "Public_WiFi_Locations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 22,
+        "globalid": "6adecc06-b03e-4d52-ae47-4557b39331de",
+        "LocationName": "Carnegie Library of Pittsburgh - Allegheny",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Allegheny",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1230 Federal Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15212",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/allegheny/",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Adjacent to Federal street restuarants and Allegheny Commons Park",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Allegheny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.006667076,
+          40.456544218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 23,
+        "globalid": "28feaf52-49f3-4c12-aaed-c42fc1f1cfc3",
+        "LocationName": "Carnegie Library of Pittsburgh - Beechview",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Beechview",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1910 Broadway Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15216",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/beechview/",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "adjacent to Belasco T stop",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Beechview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0277097219999,
+          40.4070464810001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 24,
+        "globalid": "5e382f99-c41b-4837-aaad-b79cd4340a2b",
+        "LocationName": "Carnegie Library of Pittsburgh - Brookline",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Brookline",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "708 Brookline Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15226",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/brookline",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "located in Brookline business district",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Brookline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.021396797,
+          40.394401142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 25,
+        "globalid": "665e443b-3348-4d93-8a42-0bf860ee61f0",
+        "LocationName": "Carnegie Library of Pittsburgh - Carrick",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Carrick",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1811 Brownsville Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/carrick",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "street parking available",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Carrick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98754717,
+          40.397006377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 27,
+        "globalid": "f01d16aa-3717-4f3c-bf6a-81b507c167e6",
+        "LocationName": "Carnegie Library of Pittsburgh - East Liberty",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-East Liberty",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "130 S. Whitfield Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15206",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/east-liberty",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Parking lot behind library on Beatty Street",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_East_Liberty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.926536517,
+          40.4609383050001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 28,
+        "globalid": "e9acd4e7-46b0-40a5-a629-f83b06f3731d",
+        "LocationName": "Carnegie Library of Pittsburgh - Hazelwood",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Hazelwood",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "5006 Second Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15207",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/hazelwood",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Free parking adjacent to building",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Hazelwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438978219999,
+          40.4082333640001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 29,
+        "globalid": "2928c7b6-1c36-4bf6-852c-00f89c70a3d5",
+        "LocationName": "Carnegie Library of Pittsburgh - Hill District",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Hill District",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "2177 Centre Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/hill-district",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Free parking on street",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Hill_District"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9766679529999,
+          40.445459611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 30,
+        "globalid": "5948f0a3-48d1-42c3-980d-512f53fb962c",
+        "LocationName": "Carnegie Library of Pittsburgh - Homewood",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Homewood",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "7101 Hamilton",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15208",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/homewood",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Free parking on street",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Homewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8991792269999,
+          40.4552951900001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 31,
+        "globalid": "d6c70c9f-bba5-4dc3-a90c-989c22936445",
+        "LocationName": "Carnegie Library of Pittsburgh - Knoxville",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Knoxville",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "400 Brownsville Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/knoxville",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Knoxville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.989125545,
+          40.4132446630001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 32,
+        "globalid": "05751965-8d75-4ee2-a0b0-a877791d8a32",
+        "LocationName": "Carnegie Library of Pittsburgh - Lawrenceville",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Lawrenceville",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "279 Fisk Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15201",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/lawrenceville",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Lawrenceville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959089996,
+          40.4676002790001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 33,
+        "globalid": "73bebab3-8959-4866-a512-504eacd00366",
+        "LocationName": "Carnegie Library of Pittsburgh - Library for the Blind and Physically Handicapped",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-LBPH",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "4724 Baum Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15213",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/library-for-the-blind-and-physically-handicapped",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_LBPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.949173891,
+          40.4538187850001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 34,
+        "globalid": "39778eae-b824-417d-9b96-773ccaba0372",
+        "LocationName": "Carnegie Library of Pittsburgh - Main Library",
+        "LocationDetails": "In building and on surrounding green space",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Main",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "4400 Forbes Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15213",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/main-oakland",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "paid parking in museum lot, meters on the street",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94909877,
+          40.4436984820001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 36,
+        "globalid": "08e977f1-2c67-414a-bfb5-cfe9d1602c3b",
+        "LocationName": "Carnegie Library of Pittsburgh - Sheraden",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Sheraden",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "720 Sherwood Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15204",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/sheraden",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Free parking on street",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Sheraden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.056553215,
+          40.455193857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 37,
+        "globalid": "de575399-4e47-468a-a164-2ba973607969",
+        "LocationName": "Carnegie Library of Pittsburgh - South Side",
+        "LocationDetails": "In building and on lawn in front of building",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-South Side",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "2205 East Carson Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/south-side",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "East Carson & 22nd Street bus stop in front of building",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_South_Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9742372279999,
+          40.428718523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 38,
+        "globalid": "0e78836d-6c4e-4284-a191-b60b51a36941",
+        "LocationName": "Carnegie Library of Pittsburgh - Squirrel Hill",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Squirrel Hill",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "5801 Forbes Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15217",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/squirrel-hill",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Located near Forbes & Murray bus stops",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Squirrel_Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.922651112,
+          40.4385519410001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 39,
+        "globalid": "63ef1f36-720b-435d-a90d-6c79eb48a126",
+        "LocationName": "Carnegie Library of Pittsburgh - West End",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-West End",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "47 Wabash Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15220",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/west-end",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Free parking in front of building",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_West_End"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0337493919999,
+          40.4400913650001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 40,
+        "globalid": "16af8fd4-7b59-4971-8e36-e7bf8ec48586",
+        "LocationName": "Carnegie Library of Pittsburgh - Woods Run",
+        "LocationDetails": "In building and on sidewalk",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "CLP-Woods Run",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "No",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1201 Woods Run Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15212",
+        "LocationWebsite": "https://www.carnegielibrary.org/clp_location/woods-run",
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": "yes",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": "Parking lot adjacent to building",
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CLP_Woods_Run"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03019518,
+          40.476234484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 41,
+        "globalid": "f8b50a05-0436-4447-b200-d9d28bf0b0a6",
+        "LocationName": "Community Library Of Allegheny Valley  ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Harrison Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1522 Broadview Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Natrona Heights",
+        "LocationState": "PA",
+        "LocationZip": "15065",
+        "LocationWebsite": "https://www.alleghenyvalleylibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_AlleghenyValley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7284074398401,
+          40.6205874144286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 42,
+        "globalid": "6b99315a-6384-403a-a036-471a980b9754",
+        "LocationName": "Andrew Carnegie Free Library  ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "AC Free Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "300 Beechwood Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Carnegie ",
+        "LocationState": "PA",
+        "LocationZip": "15106",
+        "LocationWebsite": "https://www.carnegiecarnegie.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_AndrewCarnegie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0857946514429,
+          40.4068170694444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 43,
+        "globalid": "f51632ba-fefe-4762-a018-fcbb509d0fc3",
+        "LocationName": "Andrew Bayne Memorial Library      ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Andrew Bayne Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "34 North Balph Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15202",
+        "LocationWebsite": "https://www.baynelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Bayne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0542987852446,
+          40.4965261434839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 44,
+        "globalid": "96db1807-c6f5-44f2-b75d-99054ab2a6b3",
+        "LocationName": "Bethel Park Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Bethel Park Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "5100 West Library Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Bethel Park",
+        "LocationState": "PA",
+        "LocationZip": "15102",
+        "LocationWebsite": "https://www.bethelparklibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_BethelPark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0266761892826,
+          40.3380117739301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 45,
+        "globalid": "1b3737df-f3ea-477a-9023-747f510db506",
+        "LocationName": "Braddock Carnegie Library     ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Braddock Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "419 Library Street",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://braddockcarnegielibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Braddock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8654991637001,
+          40.4018717605703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 46,
+        "globalid": "a2f80d7b-24b4-4066-bb51-e863ff16226e",
+        "LocationName": "Brentwood Library             ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Brentwood Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "3501 Brownsville Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15227",
+        "LocationWebsite": "https://www.brentwoodpubliclibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Brentwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9750695585709,
+          40.3749382477983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 47,
+        "globalid": "6fe26d37-2745-4597-9293-28d4c58bb0a1",
+        "LocationName": "Bridgeville Public Library    ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Bridgeville Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "505 McMillen Street",
+        "LocationStreet2": null,
+        "LocationCity": "Bridgeville",
+        "LocationState": "PA",
+        "LocationZip": "15017",
+        "LocationWebsite": "https://www.bridgevillelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Bridgeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1117292633787,
+          40.3561079597211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 48,
+        "globalid": "f9f43454-4675-4dfa-ba78-880a3410d77c",
+        "LocationName": "Clairton Public Library       ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Clairton Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "616 Miller Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Clairton",
+        "LocationState": "PA",
+        "LocationZip": "15025",
+        "LocationWebsite": "https://www.clairtonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Clairton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8833816007383,
+          40.2919519742481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 49,
+        "globalid": "761d2110-def3-4c3a-99ba-6fd40c11b618",
+        "LocationName": "Cooper-Siegel Community Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Cooper-Siegel Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "403 Fox Chapel Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15238",
+        "LocationWebsite": "https://www.coopersiegelcommunitylibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_CooperSiegel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8798220286922,
+          40.5153850781841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 50,
+        "globalid": "c8c83c21-57ef-45f9-8088-5a7cc23c6299",
+        "LocationName": "Coraopolis Memorial Library   ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Coraopolis Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "601 School Street",
+        "LocationStreet2": null,
+        "LocationCity": "Coraopolis",
+        "LocationState": "PA",
+        "LocationZip": "15108",
+        "LocationWebsite": "https://www.coraopolislibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Coraopolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1619362467581,
+          40.5153775541128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 51,
+        "globalid": "cf704270-5628-4f8d-9c60-2d59a6d22578",
+        "LocationName": "Crafton Public Library        ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Crafton Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "140 Bradford Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15205",
+        "LocationWebsite": "https://www.craftonpubliclibrary.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Crafton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0668173450236,
+          40.4344739987286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 52,
+        "globalid": "aaf56fe6-597c-4d13-9beb-b939649d48a2",
+        "LocationName": "Dormont Public Library        ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Dormont Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "2950 West Liberty Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15216",
+        "LocationWebsite": "https://www.dormontlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Dormont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0359822809216,
+          40.3942065047334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 53,
+        "globalid": "b5b62487-5078-4f6a-82c2-fb319a43d2ac",
+        "LocationName": "Duquesne Branch of the Carnegie Library of McKeesport",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Duquesne Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "300 Kennedy Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Duquesne",
+        "LocationState": "PA",
+        "LocationZip": "15110",
+        "LocationWebsite": "https://www.mckeesportlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Duquesne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8479338910803,
+          40.3717757182344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 54,
+        "globalid": "a99dc79e-6ee9-488d-932a-178afd2146f8",
+        "LocationName": "Forest Hills Branch of the C.C. Mellor Memorial Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Forest Hills Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "4400 Greensburg Pike",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15221",
+        "LocationWebsite": "https://ccmellorlibrary.org/ccm-forest-hills",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_ForestHills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8404656366833,
+          40.4176698363191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 55,
+        "globalid": "4151868f-c06a-444c-8076-3152504d5628",
+        "LocationName": "Green Tree Public Library     ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Greentree Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "10 West Manilla Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15220",
+        "LocationWebsite": "https://www.greentreelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_GreenTree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0470465514772,
+          40.4187709881645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 56,
+        "globalid": "8bf7d90d-96f4-470e-8f8d-5342d45b0b08",
+        "LocationName": "Hampton Community Library     ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Hampton Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "3101 McCully Road",
+        "LocationStreet2": null,
+        "LocationCity": "Allison Park",
+        "LocationState": "PA",
+        "LocationZip": "15101",
+        "LocationWebsite": "https://www.hamptoncommunitylibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Hampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.934794523412,
+          40.5826020322333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 57,
+        "globalid": "1a3459c5-367b-47ec-896a-1cf0b446dd86",
+        "LocationName": "Carnegie Library of Homestead ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Homestead Public Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "510 East 10th Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Munhall",
+        "LocationState": "PA",
+        "LocationZip": "15120",
+        "LocationWebsite": "https://carnegieofhomestead.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Homestead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9029262485002,
+          40.4070447690544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 58,
+        "globalid": "303c8fa9-e668-4528-88e6-90728e7e7935",
+        "LocationName": "Lincoln Park Satellite of the Penn Hills Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Lincoln Park Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "7300 Ridgeview Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15235",
+        "LocationWebsite": "https://www.pennhillslibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_LincolnPark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.885736786254,
+          40.467584986664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 59,
+        "globalid": "e068a7e4-6d0a-4ac5-99d1-5b1c0778e929",
+        "LocationName": "Carnegie Library of McKeesport    ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Mckeesport Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1507 Library Street",
+        "LocationStreet2": null,
+        "LocationCity": "McKeesport",
+        "LocationState": "PA",
+        "LocationZip": "15132",
+        "LocationWebsite": "https://www.mckeesportlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_McKeesport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8551790017739,
+          40.345306984529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 60,
+        "globalid": "bacd521e-cdc1-4bd6-95fe-18f8b64cc9a5",
+        "LocationName": "Avalon Public Library         ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Avalon Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "317 South Home Aveue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15202",
+        "LocationWebsite": "https://www.avalonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Avalon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0626062581044,
+          40.4968285397197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 61,
+        "globalid": "ebece821-5487-4799-a72c-1ac805611df2",
+        "LocationName": "Millvale Community Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Millvale Library Public wifi",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "213 Grant Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Millvale",
+        "LocationState": "PA",
+        "LocationZip": "15209",
+        "LocationWebsite": "https://www.millvalelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Millvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9715334088776,
+          40.4788997336209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 62,
+        "globalid": "ae42bfbe-d758-456a-ad0a-368b7fce36a9",
+        "LocationName": "Monroeville Public Library    ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "MPLibrary Wireless",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "4000 Gateway Campus Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Monroeville",
+        "LocationState": "PA",
+        "LocationZip": "15146",
+        "LocationWebsite": "https://www.monroevillelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Monroeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7549798567816,
+          40.429002475606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 63,
+        "globalid": "c8cfb7a4-2e97-4c53-aac8-510dfe90ea81",
+        "LocationName": "Mt. Lebanon Public Library  ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Mt Lebanon Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "16 Castle Shannon Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15228",
+        "LocationWebsite": "https://www.mtlebanonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_MtLebanon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0453242739417,
+          40.3770201995933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 64,
+        "globalid": "28c78256-a546-4c1d-8b1a-4b2e2cb0bf73",
+        "LocationName": "C C Mellor Memorial Library   ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "CC Mellor Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1 Pennwood Avenue, #2",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15218",
+        "LocationWebsite": "https://www.ccmellorlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_CCMellor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8850436055387,
+          40.4323098617634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 65,
+        "globalid": "3abe085c-1708-41db-9ad6-7376a2ece0c1",
+        "LocationName": "Northland Public Library      ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Northland Public WiFi",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "300 Cumberland Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15237",
+        "LocationWebsite": "https://www.northlandlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Northland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0347195072051,
+          40.5710541835234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 66,
+        "globalid": "3b21d219-19e7-4d0d-ac8e-591b76b8cdc2",
+        "LocationName": "Eastridge Branch of the Wilkinsburg Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Eastridge Public Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1900 Graham Blvd. Rear",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15235",
+        "LocationWebsite": "https://www.wilkinsburglibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Eastridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8569754550282,
+          40.4564101479276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 67,
+        "globalid": "b00f60e5-88c2-44c7-b30b-04a7623c134c",
+        "LocationName": "North Versailles Public Library   ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "North Versailles Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1401 Greensburg Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "North Versailles",
+        "LocationState": "PA",
+        "LocationZip": "15137",
+        "LocationWebsite": "https://www.northversailleslibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_NorthVersailles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.817807719801,
+          40.3809249769212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 68,
+        "globalid": "f5fef674-88de-4c9c-8ddc-b6eb6bf7d3e1",
+        "LocationName": "Oakmont Carnegie Library      ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Oakmont Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "700 Allegheny River Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Oakmont",
+        "LocationState": "PA",
+        "LocationZip": "15139",
+        "LocationWebsite": "https://www.oakmontlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Oakmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8417233988167,
+          40.5220590453303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 69,
+        "globalid": "2e95ff1a-a91b-4de4-9ce8-a531428ee207",
+        "LocationName": "Penn Hills Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Penn Hills Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1037 Stotler Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15235",
+        "LocationWebsite": "https://www.pennhillslibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_PennHills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8104340417434,
+          40.4827696615482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 70,
+        "globalid": "9ed6cf4d-a71f-4e85-8a61-a0df1f2a248b",
+        "LocationName": "Moon Township Public Library  ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Moon Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1700 Beaver Grade Road, #100",
+        "LocationStreet2": null,
+        "LocationCity": "Coraopolis",
+        "LocationState": "PA",
+        "LocationZip": "15108",
+        "LocationWebsite": "https://www.moonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Moon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2017129031624,
+          40.4970625358685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 71,
+        "globalid": "46e39521-77f6-48a7-8a4c-fe7a4ebd55bd",
+        "LocationName": "Pleasant Hills Public Library ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Pleasant Hills Public WiFi",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "302 Old Clairton Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15236",
+        "LocationWebsite": "https://www.pleasanthillslibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_PleasantHills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9619997663339,
+          40.3337521971664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 72,
+        "globalid": "9dce0196-d16e-4bdc-901d-77491825c76d",
+        "LocationName": "Plum Borough Community Library          ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Plum Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "445 Center New Texas Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15239",
+        "LocationWebsite": "https://www.plumlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_PlumBorough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7539795803704,
+          40.4878188934097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 73,
+        "globalid": "ecb4d181-dac4-46a8-ba79-457e56d26ccc",
+        "LocationName": "Robinson Township Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Robinson Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1000 Church Hill Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15205",
+        "LocationWebsite": "https://www.robinsonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Robinson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.144158559773,
+          40.4388039786305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 74,
+        "globalid": "3cb70022-79f1-4e6d-8209-96cc79715273",
+        "LocationName": "Scott Township Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Scott Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "301 Lindsay Road",
+        "LocationStreet2": null,
+        "LocationCity": "Carnegie ",
+        "LocationState": "PA",
+        "LocationZip": "15106",
+        "LocationWebsite": "https://www.scottlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Scott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0840212926378,
+          40.3869794734452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 75,
+        "globalid": "fb39db4f-9bef-4e3b-ab4e-9c6479f698ec",
+        "LocationName": "Sewickley Public Library      ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Sewickley Public Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "500 Thorn Street",
+        "LocationStreet2": null,
+        "LocationCity": "Sewickley",
+        "LocationState": "PA",
+        "LocationZip": "15143",
+        "LocationWebsite": "https://www.sewickleylibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Sewickley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1812910455481,
+          40.5386887293014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 76,
+        "globalid": "c785a7d1-815c-4fcb-aaf0-7ab2769d598f",
+        "LocationName": "Sharpsburg Community Library of the Cooper-Siegel Community Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Sharpsburg Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1212 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.coopersiegelcommunitylibrary.org/sharpsburg",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Sharpsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930211801615,
+          40.4944564876544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 77,
+        "globalid": "b281da05-9f56-417b-beb7-e1402107f7df",
+        "LocationName": "Shaler North Hills Library    ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Shaler Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1822 Mount Royal Boulevard",
+        "LocationStreet2": null,
+        "LocationCity": "Glenshaw",
+        "LocationState": "PA",
+        "LocationZip": "15116",
+        "LocationWebsite": "https://www.shalerlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_SNHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9642596540665,
+          40.5282969104196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 78,
+        "globalid": "c853ebce-ad8d-46b6-95e2-2f2dc18988cb",
+        "LocationName": "South Fayette Township Library     ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "South Fayette Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "515 Millers Run Road",
+        "LocationStreet2": null,
+        "LocationCity": "Morgan",
+        "LocationState": "PA",
+        "LocationZip": "15064",
+        "LocationWebsite": "https://www.southfayettelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_SouthFayette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433363546739,
+          40.3550590905252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 79,
+        "globalid": "5aad687c-4829-43c7-b95f-dc8ae82b859b",
+        "LocationName": "South Park Township Library   ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "South Park Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "2575 Brownsville Road",
+        "LocationStreet2": null,
+        "LocationCity": "South Park",
+        "LocationState": "PA",
+        "LocationZip": "15129",
+        "LocationWebsite": "https://www.southparklibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_SouthPark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9962579422891,
+          40.2918064863307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 80,
+        "globalid": "f0c1071c-60c8-4bd4-8e29-7721c5398932",
+        "LocationName": "Springdale Free Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Springdale Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "331 School Street",
+        "LocationStreet2": null,
+        "LocationCity": "Springdale",
+        "LocationState": "PA",
+        "LocationZip": "15144",
+        "LocationWebsite": "https://www.springdalepubliclibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Springdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7783391868186,
+          40.5423115848984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 81,
+        "globalid": "3bc9a8ab-8831-423f-a286-64a7ec5c60bc",
+        "LocationName": "F.O.R. Sto-Rox Library        ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Sto Rox Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "420 Chartiers Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "McKees Rocks",
+        "LocationState": "PA",
+        "LocationZip": "15136",
+        "LocationWebsite": "https://www.forstorox.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_StoRox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.058428396522,
+          40.464981964668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 82,
+        "globalid": "879372ac-d05c-4b32-9b15-11e30cc5bd00",
+        "LocationName": "Carnegie Free Library of Swissvale  ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Swissvale Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1800 Monongahela Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15218",
+        "LocationWebsite": "https://www.swissvalelibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Swissvale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8911703038201,
+          40.4225469695655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 83,
+        "globalid": "a1fca4db-605b-49fa-995d-efe19381f1a3",
+        "LocationName": "Upper St. Clair Township Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Upper St. Clair Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "1820 McLaughlin Run Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15241",
+        "LocationWebsite": "https://www.twpusc.org/library/library-home",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_UpperStClair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0717896550743,
+          40.3333268687529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 84,
+        "globalid": "cc851c2b-1b9f-447a-8c09-29792531d0bf",
+        "LocationName": "Western Allegheny Community  Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "West Allegheny Public Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "181 Bateman Road",
+        "LocationStreet2": null,
+        "LocationCity": "Oakdale",
+        "LocationState": "PA",
+        "LocationZip": "15071",
+        "LocationWebsite": "https://westernalleghenylibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_WesternAllegheny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2333096445236,
+          40.4366178881867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 85,
+        "globalid": "d0d8f783-9cdf-4e7a-bfc0-95da294e7102",
+        "LocationName": "Whitehall Public Library      ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Whitehall Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "100 Borough Park Drive",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15236",
+        "LocationWebsite": "https://www.whitehallpubliclibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Whitehall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9799497937471,
+          40.3510052197934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 86,
+        "globalid": "59511a7b-389d-4076-88f2-eb8c50a9f5b7",
+        "LocationName": "Wilkinsburg Public Library    ",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Wilkinsburg Public Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "605 Ross Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15221",
+        "LocationWebsite": "https://www.wilkinsburglibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Wilkinsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.885853743012,
+          40.4433660318017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 87,
+        "globalid": "72b8f7e1-110e-4404-9ca9-fb7fd82cc517",
+        "LocationName": "Community Library Of Castle Shannon",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Castle Shannon Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "677 Myrtle Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15234",
+        "LocationWebsite": "https://www.castleshannonlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_CastleShannon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0222626365647,
+          40.3677814532339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 88,
+        "globalid": "36124cf8-8d17-4f8d-a844-07befa90c191",
+        "LocationName": "Jefferson Hills Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Jefferson Hills Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "925 Old Clairton Road",
+        "LocationStreet2": null,
+        "LocationCity": "Clairton",
+        "LocationState": "PA",
+        "LocationZip": "15205",
+        "LocationWebsite": "https://www.jeffersonhillslibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_JeffersonHills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9298557961056,
+          40.2975517212767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 89,
+        "globalid": "ecc27bcd-4f36-495c-8fd6-cc6dd0901eca",
+        "LocationName": "Northern Tier Regional Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Northern Tier Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "4015 Dickey Road",
+        "LocationStreet2": null,
+        "LocationCity": "Gibsonia",
+        "LocationState": "PA",
+        "LocationZip": "15044",
+        "LocationWebsite": "https://www.northerntierlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_NorthernTier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9523949828258,
+          40.6416668991595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 90,
+        "globalid": "7fba4df5-becb-40fb-b53e-152783b7f07e",
+        "LocationName": "Baldwin Borough Public Library",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Baldwin Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "5230 Wolfe Drive",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15227",
+        "LocationWebsite": "https://www.baldwinborolibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_Baldwin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9776931234189,
+          40.3416653974971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 91,
+        "globalid": "a3ebbcb6-274d-49ab-8091-25a16e382692",
+        "LocationName": "White Oak Branch of the Carnegie Library of McKeesport",
+        "LocationDetails": null,
+        "LocationHours": "24/7",
+        "SSID": "Whiteoak Library",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": "Requires click-through on captive portal to access",
+        "LocationStreet1": "169 Victoria Drive",
+        "LocationStreet2": null,
+        "LocationCity": "White Oak",
+        "LocationState": "PA",
+        "LocationZip": "15131",
+        "LocationWebsite": "https://www.mckeesportlibrary.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "ACLA_WhiteOak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8115214311436,
+          40.3531721093174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 97,
+        "globalid": "7f7a11b9-d9e2-4baf-85eb-0b264117d15a",
+        "LocationName": "CYF Permanency Office ",
+        "LocationDetails": "Parking Lot",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Allegheny_Public",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": null,
+        "LocationStreet1": "10 Duff Road",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15235",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "no",
+        "AmenitiesSeating": "no",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CYF_Permanency_Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8292890097151,
+          40.4641199998856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 98,
+        "globalid": "0df8c9fb-e2ef-448b-8a49-6beaca08f865",
+        "LocationName": "CYF East",
+        "LocationDetails": "Parking Lot",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Allegheny_Public",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": null,
+        "LocationStreet1": "10700 Frankstown Rd",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15235",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "no",
+        "AmenitiesSeating": "no",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CYF_East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.840052965954,
+          40.4608200026959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 99,
+        "globalid": "3d891348-54c0-4e34-836e-4d148560bc65",
+        "LocationName": "CYF Mon Valley",
+        "LocationDetails": "Parking Lot",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Allegheny_Public",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": null,
+        "LocationStreet1": "355 Lincoln Hwy",
+        "LocationStreet2": null,
+        "LocationCity": "North Versailles",
+        "LocationState": "Pennsylvania",
+        "LocationZip": "15137",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "no",
+        "AmenitiesSeating": "no",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": "CYF_Mon_Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8212780057552,
+          40.384482992992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 100,
+        "globalid": "a2c2403b-7559-49f1-8149-2c1c486d84d9",
+        "LocationName": "1415 Milan Ave",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1415 Milan Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15226",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Brookline Memorial Park",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "1415 Milan Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.008369160037,
+          40.3940828429755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 101,
+        "globalid": "c3e90ccc-c240-4a57-ab96-f6d655f10f50",
+        "LocationName": "1517 Milan Ave",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1517 Milan Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15226",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Brookline Memorial Park",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "1517 Milan Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0050406804565,
+          40.3941047800745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 102,
+        "globalid": "1d6dac22-70c0-496a-bb63-1350ebefa14e",
+        "LocationName": "1731 Potomac Ave",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1731 Potomac Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15216",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Dormont Park and shops on Banksville Ave",
+        "PublicNotes": "Residential / Private Residence",
+        "LocationType": "Institutional ",
+        "ID": "1731 Potomac Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0393782397422,
+          40.3999540286701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 103,
+        "globalid": "d7eff534-440a-4f8d-a67a-3e79a59b577b",
+        "LocationName": "2301 Larkins Way",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2301 Larkins Way",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby South Side Flats shops and South Side Works",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "2301 Larkins Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9730227288775,
+          40.4270583206231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 104,
+        "globalid": "0e697020-7f34-4129-abdd-28ca2e36d5b6",
+        "LocationName": "3442 Frazier St",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "3442 Frazier St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15213",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Walkable to Fifth andd Forbes Avenue shops and Pitt campus",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "3442 Frazier St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9570886337514,
+          40.4316572393572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 105,
+        "globalid": "21062847-308c-4734-9225-31f9a7ab9814",
+        "LocationName": "631 Brookline",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "631 Brookline",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15226",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Brookline Ave shops, Las Palmas",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "631 Brookline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0213206267661,
+          40.3950485647602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 107,
+        "globalid": "cd497f6b-78cb-4d00-92b1-e92dbe9355ae",
+        "LocationName": "753 East Warrington",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "753 East Warrington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "On East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional",
+        "ID": "753 East Warrington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9938972635867,
+          40.4219105437828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 108,
+        "globalid": "11412bc5-9c44-4bfc-9aaa-1d4f307f29f1",
+        "LocationName": "79 Allen St.",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "79 Allen St.",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby East Warrington Ave, nearby Allentown Line",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "79 Allen St."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9940284354971,
+          40.4210286536031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 109,
+        "globalid": "0d92d5df-9625-41fa-8bad-4f5afb2164f1",
+        "LocationName": "97 South 23rd Street",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "97 South 23rd Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby South Side Flats shops and South Side Works",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "97 South 23rd Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9729160105345,
+          40.4279198358584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 110,
+        "globalid": "d8220b39-4d1b-4601-92c2-ebfdc590d507",
+        "LocationName": "ABC Storage Redirect",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1107 Arlington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby E Warrington shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional",
+        "ID": "ABC Storage Redirect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.991107754934,
+          40.4224814817922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 111,
+        "globalid": "af6ae46d-b436-4f91-868c-0a553966b0d0",
+        "LocationName": "Black's Beauty Bar",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2037 Centre Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Centre Ave shops ",
+        "PublicNotes": "Beauty",
+        "LocationType": "Institutional ",
+        "ID": "Black's Beauty Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9792620236009,
+          40.4444002103363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 112,
+        "globalid": "e09eb4a9-9b38-4c3a-8dbc-b29d9b64591a",
+        "LocationName": "Caliguiri Building",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "803 E Warrington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Walkable to E Warrington Ave shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Caliguiri Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9934698183405,
+          40.42217801903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 113,
+        "globalid": "33a939f7-0b29-4479-8332-6d4b48f78e48",
+        "LocationName": "Calvary United Methodist Church",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "954 Beech Ave",
+        "LocationStreet2": null,
+        "LocationCity": "PIttsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15233",
+        "LocationWebsite": "https://www.sorgatronmedia.com/about",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby West Park",
+        "PublicNotes": "Religious Building",
+        "LocationType": "Institutional ",
+        "ID": "Calvary United Methodist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0190857031044,
+          40.45261768322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 114,
+        "globalid": "ec3eac6f-efd5-44d6-9f9b-7239ef787b32",
+        "LocationName": "Finello Pavillion",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "3206 Niagara St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15213",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Pitt campus and shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Finello Pavillion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9598547607001,
+          40.4340479105192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 115,
+        "globalid": "47da3c64-c19c-4f60-bef8-e4fd923aa74b",
+        "LocationName": "Free Press Building",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "528 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Building on Braddock Ave",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Free Press Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8697455930215,
+          40.4039113499742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 116,
+        "globalid": "9a4003a3-03d8-4c9a-ace7-07d7472def7a",
+        "LocationName": "Gaudenzia Erie Inc",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "212 Centre Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Centre Ave shops and Sunoco gas station",
+        "PublicNotes": "Treatment Center",
+        "LocationType": "Institutional ",
+        "ID": "Gaudenzia Erie Inc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8439508182144,
+          40.3958091026084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 117,
+        "globalid": "b0c45b07-c292-437b-a45b-d0ac7d4944e1",
+        "LocationName": "1101 Arlington Ave",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1101 Arlington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby E Warrington shops and Knoxville Incline",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "1101 Arlington Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9912683118107,
+          40.422530584779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 121,
+        "globalid": "0d79a2e3-8503-4301-be39-209de099f2c5",
+        "LocationName": "Hack Pittsburgh",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": null,
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1936 5th Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "PIttsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://hackpgh.org/about/",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Cooperative / Community",
+        "LocationType": "Institutional ",
+        "ID": "Hack Pittsburgh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9778675991011,
+          40.4380396303748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 122,
+        "globalid": "ed388580-7ff2-4844-b5b4-e0f12a34812e",
+        "LocationName": "High Hrothgar",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "201 Allen St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby E Warrington shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "High Hrothgar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9935155114494,
+          40.420751670721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 123,
+        "globalid": "4f964d14-3443-4d2e-982a-23d8146d03d8",
+        "LocationName": "Hill CDC",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2015 Centre Ave",
+        "LocationStreet2": "Suite #2",
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://www.hilldistrict.org",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Centre Ave shops ",
+        "PublicNotes": "Community Corporation",
+        "LocationType": "Institutional ",
+        "ID": "Hill CDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9799795234816,
+          40.4440428703608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 124,
+        "globalid": "afe5742b-6c33-4bf7-a157-26324b864b3c",
+        "LocationName": "Hilltop Pharmacy",
+        "LocationDetails": "Inside pharmacy; within 100 ft",
+        "LocationHours": "Mon - Fri: 9 AM - 6 PM ; Sat: 9 AM - 1 PM",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": "Yes",
+        "AccountDetails": null,
+        "LocationStreet1": "818 E Warrington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq ; https://www.hilltoppharmacyrx.com",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "This pharmacy in on East Warrington Ave near shops",
+        "PublicNotes": "May not allow inside users that are not purchasing from pharmacy",
+        "LocationType": "Institutional ",
+        "ID": "Hilltop Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9929283540362,
+          40.4216241847775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 125,
+        "globalid": "df57a082-2f2d-40c3-803e-7adf7fb9fe56",
+        "LocationName": "Ink Division",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "218 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://ink-division.com",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Business on Braddock Ave",
+        "PublicNotes": "Business",
+        "LocationType": "Institutional ",
+        "ID": "Ink Division"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8729513287446,
+          40.4055431762888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 126,
+        "globalid": "61a34aa1-2551-4755-86bc-00cb08936e41",
+        "LocationName": "McClain Street Redirect",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "846 McClain St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Grandview Park",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "McClain Street Redirect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.992151105713,
+          40.4241292411901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 127,
+        "globalid": "34a180e2-0b33-4ac1-b8de-50950b1510f0",
+        "LocationName": "Morse Gardens",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2416 Sarah St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby South Side Flats shops and South Side Works",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Morse Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9707254761036,
+          40.4268454852558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 128,
+        "globalid": "45e74819-ea27-4255-bda9-d4ee155865a9",
+        "LocationName": "Peppers N'At",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Wed: 4 - PM ; Thurs: 4 - 10 PM ; Frid and Sat: 4 - 11 PM ; Sun: 2 - 8 PM ",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "28 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Restaurant on Braddock Ave",
+        "PublicNotes": "Restaurant ; May need to be patron to access amenities ",
+        "LocationType": "Institutional ",
+        "ID": "Peppers N'At"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8744825022588,
+          40.4065460727188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 129,
+        "globalid": "3d7e784b-52c2-46a4-b0b9-221536aef5c6",
+        "LocationName": "Polska Szkola",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "171 S 15th st",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15203",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Walkable to Winter Park and South Side Works",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional",
+        "ID": "Polska Szkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9833783337177,
+          40.4256655170824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 130,
+        "globalid": "699cb765-b4e0-4426-9db8-3e6d5ba31eba",
+        "LocationName": "RE360",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "829 Industry Street",
+        "LocationStreet2": null,
+        "LocationCity": "PIttsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://www.re360co.com/about-re360",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Real Estate Hub / Community",
+        "LocationType": "Institutional",
+        "ID": "RE360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9927574279976,
+          40.4210865609771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 131,
+        "globalid": "6f5f0010-41f6-4caa-bebe-b4ba25737d93",
+        "LocationName": "901 Wood Street 2401",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "901 Wood St (Rear)",
+        "LocationStreet2": null,
+        "LocationCity": "Wilkinsburg",
+        "LocationState": "PA",
+        "LocationZip": "15221",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby E Busway, Ardmore Blvd shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "901 Wood Street 2401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8850984529374,
+          40.4430733614046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 132,
+        "globalid": "2e6e4232-b2c2-475d-8dee-ae2802ce4c96",
+        "LocationName": "Anonymous Node Host",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "719-201 E Warrington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby E Warrington shops, pharmacy",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "Anonymous Node Host"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9947477849081,
+          40.4218060432929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 133,
+        "globalid": "6c74b12a-bfb6-4744-a152-3aed221722c3",
+        "LocationName": "Sorgatron Media",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1619 Broadway Ave",
+        "LocationStreet2": null,
+        "LocationCity": "PIttsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15216",
+        "LocationWebsite": "https://www.sorgatronmedia.com/about",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby transporation line and Broadway Ave shops",
+        "PublicNotes": "Media",
+        "LocationType": "Institutional ",
+        "ID": "Sorgatron Media"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0243751408884,
+          40.4099076059192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 134,
+        "globalid": "7135a711-1905-4ab1-b1cb-750404cfea87",
+        "LocationName": "Spartan Center",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "134 East Elizabeth Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15207",
+        "LocationWebsite": "https://www.spartancenter.org/home",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Hazelwood Greenway and Irvine St shops",
+        "PublicNotes": "Community-Based ; May need to appointment or event to utilize WiFi indoors",
+        "LocationType": "Institutional ",
+        "ID": "Spartan Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9417750131246,
+          40.4071479879755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 135,
+        "globalid": "ee39e273-7586-4553-a7ef-5d10c7f6a16a",
+        "LocationName": "Squirrel Hill 1",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "5618 Darlington Rd",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15217",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Giant Eagle and Murray Ave shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Squirrel Hill 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9268779658304,
+          40.4366083233628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 136,
+        "globalid": "1d1fcb16-5b96-4acb-9c30-ff3716f53905",
+        "LocationName": "StartUptown at The Paramount Film Exchange",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": null,
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "544 Miltenberger St",
+        "LocationStreet2": null,
+        "LocationCity": "PIttsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://www.avenu-pgh.org",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Cooperative / Community",
+        "LocationType": "Institutional ",
+        "ID": "StartUptown at The Paramount Film Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9816921379503,
+          40.4359568428068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 137,
+        "globalid": "dc25506d-e11e-4a39-a0d1-f9d7e81b1b6a",
+        "LocationName": "Subfortress",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1733 Arlington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq",
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Knoxville library, Family Dollar, St Micheal's Cemetery ; Walkable to South Side Park",
+        "PublicNotes": "Residential / Community-based",
+        "LocationType": "Institutional ",
+        "ID": "Subfortress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9851598785147,
+          40.4177833264303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 138,
+        "globalid": "7c391a27-b5e1-40ae-bb2c-97b0678eafcf",
+        "LocationName": "The Free Store",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Tuesday and Thursday: 11 AM - 1 PM ; Saturday from 10 AM - 12 PM",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "420 Braddock Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://www.freestore15104.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Brew Gentlemen Brewery, Red Lantern Bike Shop on Saturdays",
+        "PublicNotes": "Store / Goods",
+        "LocationType": "Institutional ",
+        "ID": "The Free Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8709118852127,
+          40.4045034702111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 139,
+        "globalid": "0140edf5-8e94-41b5-9d5a-ff986256b18a",
+        "LocationName": "Warren United Methodist ",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2606 Centre Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://warrenumcpittsburgh.org",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "1 mile away from PPG Paints Arena and Uptowm shops",
+        "PublicNotes": "Religious Building",
+        "LocationType": "Institutional ",
+        "ID": "Warren United Methodist "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9681142954275,
+          40.4463860642481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 140,
+        "globalid": "35c3624f-8e1a-4c33-8aeb-8c9f89b4c26a",
+        "LocationName": "Tustin Tot Lot",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "2028 Tustin St",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15219",
+        "LocationWebsite": "https://activecities.com/pittsburgh/organizations/tustin-tot-lot/",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Walkable to downtown and hilltop shops",
+        "PublicNotes": "Parks and Recreation",
+        "LocationType": "Institutional ",
+        "ID": "Tustin Tot Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.977252174312,
+          40.4368440453103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 141,
+        "globalid": "a8f3150b-faa8-48a2-88d8-740e91aa55d3",
+        "LocationName": "Wilkins 2401",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "6739 Wilkins Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15217",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Homewood Cemetery and Point Brugge Cafe",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Wilkins 2401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9121536655124,
+          40.4470129952706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 142,
+        "globalid": "350d8a4e-36f6-4651-b995-0d840faf011d",
+        "LocationName": "Work Hard PGH",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "744 E Warrington Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq ; https://workhardpgh.com/about-work-hard-pittsburgh/",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Cooperative / Community",
+        "LocationType": "Institutional ",
+        "ID": "Work Hard PGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9941195848164,
+          40.4216561442588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 143,
+        "globalid": "218cecd0-a9c6-4fce-9b42-dd04052a8145",
+        "LocationName": "Work Hard PGH (Rear)",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "745 Manton Way",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15210",
+        "LocationWebsite": "https://www.metamesh.org/#!contact-meta-mesh/c24vq ; https://workhardpgh.com/about-work-hard-pittsburgh/",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby East Warrington Ave shops, pharmacy",
+        "PublicNotes": "Cooperative / Community",
+        "LocationType": "Institutional ",
+        "ID": "Work Hard PGH (Rear)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9940487845989,
+          40.4213920883396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 144,
+        "globalid": "e38faa85-9b16-48eb-9a84-459d9e955813",
+        "LocationName": "Oporto and Gregory Street",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "Gregory Street",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "PA",
+        "LocationZip": "15213",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby South Side Park and walkable to South Side Works",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "Oporto and Gregory Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9790664708146,
+          40.4238025330789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 145,
+        "globalid": "fb863284-908c-4640-8b9f-d06128d6389b",
+        "LocationName": "Brew Gentlemen Brewery",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Closed Sunday - Wednesday ; Thursday and Friday: 3 - 7 PM ; Saturday: 12 - 5 PM",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1936 5th Avenue",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://www.brewgentlemen.com",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Occasional food trucks, some outdoor seating available",
+        "PublicNotes": "Brewery",
+        "LocationType": "Institutional ",
+        "ID": "Brew Gentlemen Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8702753755079,
+          40.4041134439863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 149,
+        "globalid": "0cca9397-9012-4ffd-9fce-13943c2bddc5",
+        "LocationName": "Studebaker Metals",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "534 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://studebakermetals.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. Storefront temporarily closed",
+        "PublicNotes": "Business",
+        "LocationType": "Institutional ",
+        "ID": "Studebaker Metals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8697302750018,
+          40.4037179910124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 150,
+        "globalid": "261b76d1-8723-4f5c-8e03-1acb612cb001",
+        "LocationName": "A Boss Opticians",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon - Frid: 9:30 AM - 5 PM ; Sat: 10 AM - 3 PM",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "614 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://abossopticians.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Business",
+        "LocationType": "Institutional ",
+        "ID": "A Boss Opticians"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8682659281185,
+          40.4028542743176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 151,
+        "globalid": "bb4bb4a9-48f2-4c18-8c48-cb134919889e",
+        "LocationName": "Barbershop",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Tues - Sat: 9 AM - 7 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "704 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://m.facebook.com/Studio-704-1297593206975124/",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Beauty",
+        "LocationType": "Institutional ",
+        "ID": "Barbershop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8674167331235,
+          40.4020771517761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 152,
+        "globalid": "32bdef93-8b8e-474f-8c0b-0d6824ce7a78",
+        "LocationName": "Dog Park",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "717 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Parks and Recreation",
+        "LocationType": "Institutional ",
+        "ID": "Braddock Bark Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8666602599931,
+          40.4021783350166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 153,
+        "globalid": "05456b81-5b1c-4442-ad89-688980ab14df",
+        "LocationName": "Braddock Employment Training Center",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "640 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Employment Training Center",
+        "LocationType": "Institutional ",
+        "ID": "Braddock Employment Training Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8677113956784,
+          40.4022993793008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 154,
+        "globalid": "c3a3cb6e-d479-4dbe-b4d1-a9a531418f64",
+        "LocationName": "United Steelworkers Building",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1070 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://uswlocals.org/local-1219-braddock-pa",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops",
+        "PublicNotes": "Labor Union",
+        "LocationType": "Institutional ",
+        "ID": "United Steelworkers Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8624303349687,
+          40.398459436177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 155,
+        "globalid": "5232eede-2f09-4a2d-b7b1-f96478236cea",
+        "LocationName": "Golden Treasures",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon - Frid: 9:30 AM - 3:30 PM",
+        "SSID": "Meta Mesh Public WiFi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "709 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://www.goldentreasuresservices.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Business",
+        "LocationType": "Institutional ",
+        "ID": "Golden Treasures"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8665942769671,
+          40.4018361321924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 156,
+        "globalid": "fd7f6c0f-90af-48d5-aa81-79335eb6783f",
+        "LocationName": "UnSmoke Systems Art Space",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1137 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://unsmokeartspace.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Arts and Culture Space",
+        "LocationType": "Institutional ",
+        "ID": "UnSmoke Systems Art Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8605960599572,
+          40.3980200539126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 157,
+        "globalid": "2980cca7-04cb-4a93-b4f3-5dc6090c1df5",
+        "LocationName": "Superior Motors",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Thurs: 5 - 10 PM ; Frid - Sat: 5 - 11 PM ; Sun: 5 - 10 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1211 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://superiormotors15104.com",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Restaurant ; May need to be patron to access amenities ",
+        "LocationType": "Institutional ",
+        "ID": "Superior Motors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8605501360319,
+          40.3977392158955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 158,
+        "globalid": "edc0be4e-0463-460c-8055-1496d2997019",
+        "LocationName": "37 Wood St",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "37 Wood St",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "No",
+        "AmenitiesSeating": "No",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby Braddock Ave shops",
+        "PublicNotes": "Residential / Community-Based",
+        "LocationType": "Institutional ",
+        "ID": "37 Wood St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.859300729454,
+          40.3981838432925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 159,
+        "globalid": "717b7ab8-c803-483a-a670-4a38f97a187c",
+        "LocationName": "Verona Bus Stop",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "913 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops. May need to be patron to access amenities",
+        "PublicNotes": "Transportation",
+        "LocationType": "Institutional ",
+        "ID": "Verona Street Bus Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8637526699994,
+          40.3997693517146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 160,
+        "globalid": "c5a25f84-316a-456b-a342-2a53d34a7bf1",
+        "LocationName": "Produce Marketplace",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Thurs - Sat: 12 - 4 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "519 St Clair Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Clairton",
+        "LocationState": "PA",
+        "LocationZip": "15025",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Rite Aid, Dollar General, Post Office, and Clairton High School",
+        "PublicNotes": "Store / Goods",
+        "LocationType": "Institutional ",
+        "ID": "Produce Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8863510787266,
+          40.2933616932723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 161,
+        "globalid": "74e7b464-6f28-49bd-857c-5ed4ee852fd4",
+        "LocationName": "Braddock Farms",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1008 Braddock Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Braddock",
+        "LocationState": "PA",
+        "LocationZip": "15104",
+        "LocationWebsite": "https://www.growpittsburgh.org/about-us/locations/braddock-farms/",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Nearby Braddock Ave shops",
+        "PublicNotes": "Community Garden",
+        "LocationType": "Institutional ",
+        "ID": "Braddock Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8629815708608,
+          40.3991800608406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 162,
+        "globalid": "e1bbd0a6-27fc-49e1-8bc8-f2a96ec493ac",
+        "LocationName": "Energy and Food Hub",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon - Frid: 9 AM - 5 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "112 E Sherman St",
+        "LocationStreet2": null,
+        "LocationCity": "Millvale",
+        "LocationState": "PA",
+        "LocationZip": "15209",
+        "LocationWebsite": "https://www.newsunrising.org/project/millvale-moose/",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": "No",
+        "AmenitiesDetails": "Nearby post office and Grant Ave shops ; May need to be patron to access amenities ",
+        "PublicNotes": "Energy and Food Hub",
+        "LocationType": "Institutional ",
+        "ID": "Moose Mode"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9713381608694,
+          40.4797917221412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 163,
+        "globalid": "7350a800-0d87-414a-a8ff-c3727e7b07af",
+        "LocationName": "Sharpsburg Neighborhood Organization",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "511 S Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.sharpsburgneighborhood.org",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries",
+        "PublicNotes": "Community Organization",
+        "LocationType": "Institutional ",
+        "ID": "Sharpsburg Neighborhood Organization"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93592055482,
+          40.4945582130371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 164,
+        "globalid": "06da39e0-6d26-42d4-b795-e8e27cf2045d",
+        "LocationName": "Ketchup City",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "612 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://ketchupcity.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries",
+        "PublicNotes": "Arts and Culture Space",
+        "LocationType": "Institutional ",
+        "ID": "Ketchup City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.935357582788,
+          40.4948127001153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 165,
+        "globalid": "1d62e5e5-be7a-4c1d-beb7-8426b34b3074",
+        "LocationName": "Dr. Conicella Family Dentistry",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon: 9 AM - 7 PM ; Tues - Thurs: 9 AM - 4 PM ; Sat: 9 AM - 12 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "701 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.conicellafamilydentistry.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries ; May beed to be patron to access amenities ",
+        "PublicNotes": "Dentistry",
+        "LocationType": "Institutional ",
+        "ID": "Dr. Conicella Family Dentistry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9350537721367,
+          40.4943609899667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 166,
+        "globalid": "e16bc623-786b-4184-a7e1-cc2172737c0c",
+        "LocationName": "Cleaning Concepts",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon - Frid: 8 AM - 5 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "712 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.cleaningconceptsco.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries",
+        "PublicNotes": "Janitorial Service",
+        "LocationType": "Institutional ",
+        "ID": "Cleaning Concepts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9348157100152,
+          40.4947785645233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 167,
+        "globalid": "42b75b40-20fd-422b-a930-df2a433a9e49",
+        "LocationName": "Dancing Gnome Brewing Company",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Wed - Frid: 4 - 9 PM ; Sat - Sun: 12 - 4 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "925 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.dancinggnomebeer.com",
+        "AmenitiesRestroom": "Yes",
+        "AmenitiesSeating": "Yes",
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and other Sharpsburg Breweries",
+        "PublicNotes": "Brewery",
+        "LocationType": "Institutional ",
+        "ID": "Dancing Gnome Brewing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9326766747585,
+          40.4943811616159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 168,
+        "globalid": "e294e3a7-18e0-4d57-8aae-966f67304360",
+        "LocationName": "Jacoby and Associates",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "Mon - Frid: 8:30 AM - 5 PM",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1000 Main St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.jacobyandassociates.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries ; May beed to be patron to access amenities ",
+        "PublicNotes": "Insurance Agency",
+        "LocationType": "Institutional ",
+        "ID": "Jacoby and Associates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932151593332,
+          40.4946290208058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 169,
+        "globalid": "0ba8c9ca-2f56-4018-ab71-688b740e1fec",
+        "LocationName": "Sugar Spell Scoops",
+        "LocationDetails": "Within 100 ft",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "MetaMesh Public Wifi",
+        "PasswordRequired": "No",
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": "1014 N Canal St",
+        "LocationStreet2": null,
+        "LocationCity": "Sharpsburg",
+        "LocationState": "PA",
+        "LocationZip": "15215",
+        "LocationWebsite": "https://www.sugarspellscoops.com",
+        "AmenitiesRestroom": null,
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": "Near Marina and Sharpsburg Breweries ; May beed to be patron to access amenities ; Limited Winter hours",
+        "PublicNotes": "Ice Cream Parlor",
+        "LocationType": "Institutional ",
+        "ID": "Sugar Spell Scoops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9321234693197,
+          40.4948798087024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 170,
+        "globalid": "27c064a6-e9c4-4666-8497-273570d9ef9b",
+        "LocationName": "Duquesne Family Center",
+        "LocationDetails": "Parking Lot",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "AC_Public",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": null,
+        "LocationStreet1": "1 Library Place",
+        "LocationStreet2": null,
+        "LocationCity": "Duquense",
+        "LocationState": "PA",
+        "LocationZip": "15110",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "no",
+        "AmenitiesSeating": "no",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8438926759271,
+          40.3713655968903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 171,
+        "globalid": "e03eac15-f5d6-4000-83b4-5aecad4e2876",
+        "LocationName": "Donnelly Boland Main Office",
+        "LocationDetails": "Parking lot",
+        "LocationHours": "24 hours/day, 7 days/week",
+        "SSID": "AC_Public",
+        "PasswordRequired": "no",
+        "PasswordDetails": null,
+        "AccountRequired": "no",
+        "AccountDetails": null,
+        "LocationStreet1": "2801 Custer Ave",
+        "LocationStreet2": null,
+        "LocationCity": "Pittsburgh",
+        "LocationState": "Pennsylvania",
+        "LocationZip": "15227",
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "no",
+        "AmenitiesSeating": "no",
+        "AmenitiesVending": "no",
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9741076252877,
+          40.3936252953261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 173,
+        "globalid": "d3b7eaad-9635-4d82-871e-ddf9e33192e4",
+        "LocationName": null,
+        "LocationDetails": null,
+        "LocationHours": "Building closes at 7 PM",
+        "SSID": null,
+        "PasswordRequired": null,
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": null,
+        "LocationStreet2": null,
+        "LocationCity": null,
+        "LocationState": null,
+        "LocationZip": null,
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": "Within Phillips Park",
+        "LocationType": "Institutional",
+        "ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9910307700879,
+          40.3915001969196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 174,
+        "globalid": "7b0c7823-c4ac-4e9e-ac80-851be7999ada",
+        "LocationName": null,
+        "LocationDetails": null,
+        "LocationHours": null,
+        "SSID": null,
+        "PasswordRequired": null,
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": null,
+        "LocationStreet2": null,
+        "LocationCity": null,
+        "LocationState": null,
+        "LocationZip": null,
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0041894313523,
+          40.4137146048299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 175,
+        "globalid": "93e48095-1fb4-4d75-8c52-3d289652b4ae",
+        "LocationName": null,
+        "LocationDetails": null,
+        "LocationHours": null,
+        "SSID": null,
+        "PasswordRequired": null,
+        "PasswordDetails": null,
+        "AccountRequired": null,
+        "AccountDetails": null,
+        "LocationStreet1": null,
+        "LocationStreet2": null,
+        "LocationCity": null,
+        "LocationState": null,
+        "LocationZip": null,
+        "LocationWebsite": null,
+        "AmenitiesRestroom": "yes",
+        "AmenitiesSeating": null,
+        "AmenitiesVending": null,
+        "AmenitiesDetails": null,
+        "PublicNotes": null,
+        "LocationType": "Institutional",
+        "ID": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8837332439993,
+          40.2889651978919
+        ]
+      }
+    }
+  ]
+}

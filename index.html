@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Crash Data Dashboard</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.20/c3.min.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.20/c3.min.css" rel="stylesheet">
+    <title>Public WiFi Locations in Pittsburgh</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
     <style>
@@ -11,25 +10,31 @@
             position: absolute;
             top: 0;
             bottom: 0;
-            width: 66.66%;
+            width: 100%; /* Adjusted map width */
+            left: 0;
         }
 
         #dashboard {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 66.66%;
-            width: 33.33%;
-            background-color: #f0f0f0;
+            position: absolute; /* Changed to absolute for proper positioning */
+            top: 50px;
+            bottom: 25%; /* Adjusted height to 25% */
+            right: 0;
+            width: 30%; /* Reduced width to avoid full screen */
+            background-color: #000000;
+            opacity: 0.79; /* Slightly see-through */
             overflow: auto;
-            display: none;
-            padding: 20px;
-            box-sizing: border-box;
+            padding: 20px; /* Added padding */
+            border: 2px solid black; /* Added border with black color */
+            font-family: Georgia, 'Times New Roman', Times, serif; /* Set font to Verdana */
+            margin: 0;
+            /* Added z-index to ensure dashboard stays on top */
+            z-index: 1;
+            color: white; /* Changed text color to white */
         }
 
         #toggleDashboard {
             position: absolute;
-            top: 10px;
+            top: 5px;
             right: 10px;
             z-index: 1000;
             cursor: pointer;
@@ -39,30 +44,61 @@
             border-radius: 5px;
         }
 
-        #chart {
-            margin-bottom: 20px;
+        .button {
+            margin-bottom: 10px;
+            cursor: pointer;
+            background-color: #ccc;
+            border: 1px solid #666;
+            padding: 5px 10px;
+            border-radius: 5px;
         }
 
-        h2 {
-            margin-top: 0;
+        canvas {
+            width: 100% !important;
+            height: 50%; /* Set height of chart */
+        }
+
+        #chart-list {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px; /* Adjust margin */
+            overflow-y: auto;
+            max-height: 150px; /* Set max height */
+        }
+
+        #chart-list li {
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        #chart-list li:hover {
+            background-color: #f0f0f0;
+        }
+        
+        #chart-list input[type=checkbox] {
+            margin-right: 5px;
         }
     </style>
 </head>
 <body>
 <div id="map"></div>
 <div id="dashboard">
-    <h2>Crash Data Dashboard</h2>
-    <div id="chart"></div>
+    <h2>Public WiFi Locations in Pittsburgh</h2>
+    <h3> (hover over the red dots for location details)</h3>
+    <button class="button" id="locationDetailsButton">Location Details</button>
+    <button class="button" id="accountRequiredButton">Account Required</button>
+    <canvas id="chart"></canvas>
+    <ul id="chart-list"></ul> <!-- Container for list of x-axis elements -->
 </div>
 <div id="toggleDashboard">Toggle Dashboard</div>
 
 <script>
     // Initialize map
-    mapboxgl.accessToken = 'pk.eyJ1Ijoic2JhaW5zMiIsImEiOiJjbGpoamZhYmMwaXUzM2xxZ2dqaGM5eGJrIn0.w__oL-gnTQ1h2AZMkAX2iQ';
+    mapboxgl.accessToken = 'pk.eyJ1Ijoic2JhaW5zMiIsImEiOiJjbGpoamZhYmMwaXUzM2xxZ2dqaGM5eGJrIn0.w__oL-gnTQ1h2AZMkAX2iQ'; // Replace with your Mapbox access token
     var map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/streets-v11',
-        center: [-111.89037, 33.40747], // Default center coordinates
+        style: 'mapbox://styles/mapbox/dark-v10', // Changed Mapbox style to dark
+        center: [-80.006667076, 40.456544218], // Default center coordinates (Pittsburgh)
         zoom: 10 // Default zoom level
     });
 
@@ -73,37 +109,161 @@
         document.getElementById('dashboard').style.display = dashboardVisible ? 'block' : 'none';
     });
 
-    // Asynchronously load data
-    fetch('assets/crash.geojson')
-        .then(response => response.json())
-        .then(data => {
-            // Extract surface conditions from the data
-            var surfaceConditions = data.features.map(feature => feature.properties.surface_condition);
-            
-            // Filter out undefined values
-            surfaceConditions = surfaceConditions.filter(condition => condition !== undefined);
-            
-            // Count occurrences of each surface condition
-            var surfaceConditionCounts = surfaceConditions.reduce((acc, surfaceCondition) => {
-                acc[surfaceCondition] = (acc[surfaceCondition] || 0) + 1;
-                return acc;
-            }, {});
+    var chartInstance = null; // Store the chart instance
 
-            // Convert object to array for c3.js
-            var surfaceConditionData = Object.entries(surfaceConditionCounts);
-
-            // Create pie chart
-            var pieChart = c3.generate({
-                bindto: '#chart',
-                data: {
-                    columns: surfaceConditionData,
-                    type: 'pie'
-                }
-            });
-        })
-        .catch(error => {
-            console.error('Error loading data:', error);
+    // Load public wifi GeoJSON data
+    map.on('load', function () {
+        map.addSource('public-wifi', {
+            type: 'geojson',
+            data: 'assets/public_wifi.geojson'
         });
+
+        // Add a layer to represent the public wifi locations
+        map.addLayer({
+            id: 'public-wifi',
+            type: 'symbol',
+            source: 'public-wifi',
+            layout: {
+                'icon-image': 'circle-15', // Use a predefined circle icon
+                'icon-size': 1.5 // Increase the icon size
+            }
+        });
+
+        // Add symbol layer for each location with hover effect
+        map.addLayer({
+            id: 'public-wifi-symbols',
+            type: 'circle',
+            source: 'public-wifi',
+            paint: {
+                'circle-color': 'red', // Set dot color to red
+                'circle-radius': 5 // Set dot size
+            }
+        });
+
+        // Hover effect
+        var popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
+
+        map.on('mouseenter', 'public-wifi-symbols', function (e) {
+            map.getCanvas().style.cursor = 'pointer';
+            var coordinates = e.features[0].geometry.coordinates.slice();
+            var description = e.features[0].properties.LocationName;
+
+            popup.setLngLat(coordinates)
+                .setHTML(description)
+                .addTo(map);
+        });
+
+        map.on('mouseleave', 'public-wifi-symbols', function () {
+            map.getCanvas().style.cursor = '';
+            popup.remove();
+        });
+
+        // Define button click events
+        document.getElementById('locationDetailsButton').addEventListener('click', function () {
+            generateLineChart('LocationDetails');
+        });
+
+        document.getElementById('accountRequiredButton').addEventListener('click', function () {
+            generateLineChart('PublicNotes');
+        });
+    });
+
+    // Function to generate line chart based on property values
+    function generateLineChart(property) {
+        fetch('assets/public_wifi.geojson')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to fetch GeoJSON data');
+                }
+                return response.json();
+            })
+            .then(data => {
+                const occurrences = {};
+                data.features.forEach(feature => {
+                    const value = feature.properties[property];
+                    if (value) {
+                        occurrences[value] = (occurrences[value] || 0) + 1;
+                    }
+                });
+                const labels = Object.keys(occurrences);
+                const values = Object.values(occurrences);
+                renderChart(labels, values);
+                renderList(labels); // Render list of x-axis elements
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+            });
+    }
+
+    // Function to render line chart using Chart.js
+    function renderChart(labels, values) {
+        // Destroy existing chart instance if exists
+        if (chartInstance) {
+            chartInstance.destroy();
+        }
+
+        var ctx = document.getElementById('chart').getContext('2d');
+        chartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Occurrences',
+                    data: values,
+                    borderColor: 'rgba(255, 99, 132, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+
+    // Function to render list of x-axis elements
+    function renderList(labels) {
+        var listContainer = document.getElementById('chart-list');
+        listContainer.innerHTML = ''; // Clear previous list items
+        labels.forEach(label => {
+            var listItem = document.createElement('li');
+            var checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.addEventListener('change', function() {
+                highlightInstance(label, this.checked);
+            });
+            listItem.appendChild(checkbox);
+            listItem.appendChild(document.createTextNode(label));
+            listContainer.appendChild(listItem);
+        });
+    }
+
+    // Function to highlight instance on line chart
+    function highlightInstance(label, checked) {
+        if (checked) {
+            // Highlight instance on line chart
+            var index = chartInstance.data.labels.indexOf(label);
+            if (index !== -1) {
+                var dataset = chartInstance.data.datasets[0];
+                var backgroundColors = Array(chartInstance.data.labels.length).fill('rgba(0, 0, 0, 0)');
+                backgroundColors[index] = 'rgba(255, 99, 132, 0.2)';
+                dataset.backgroundColor = backgroundColors;
+                chartInstance.update();
+            }
+        } else {
+            // Remove highlight
+            var dataset = chartInstance.data.datasets[0];
+            dataset.backgroundColor = Array(chartInstance.data.labels.length).fill('rgba(0, 0, 0, 0)');
+            chartInstance.update();
+        }
+    }
 </script>
 </body>
 </html>
+
