@@ -1,6 +1,6 @@
 # DashboardLab
 
-__!website link[https://sbains2.github.io/DashboardLab/]__
+__Website link: [https://sbains2.github.io/DashboardLab/]__
 
 ## Public WiFI Locations around the city of Pittsburgh
 
